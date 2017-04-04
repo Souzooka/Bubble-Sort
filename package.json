@@ -1,0 +1,27 @@
+{
+  "name": "Bubble-Sort",
+  "version": "1.0.0",
+  "description": "An implementation of bubble sort in JavaScript",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souzooka/Bubble-Sort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souzooka/Bubble-Sort/issues"
+  },
+  "homepage": "https://github.com/Souzooka/Bubble-Sort#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
